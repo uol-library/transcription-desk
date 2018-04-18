@@ -1,0 +1,1 @@
+01 00 * * * "/usr/bin/php /var/www/transcription/private/mediawiki/maintenance/runJobs.php" >> /var/www/transcription/private/Logs/wikitransRunJobs.log 2>&1
