@@ -28,16 +28,19 @@ LULSYSTEMSDIR=$LULHOME/private
 LULLOGDIR=$LULSYSTEMSDIR/Logs
 
 # Remote server and root directory for rsync backups
-LULRSYNCREMOTESERVER="lib-code5.leeds.ac.uk"
+LULRSYNCREMOTESERVER="lib15.leeds.ac.uk"
+
+# Remote server ssh port
+LULRSYNCREMOTEPORT=2222
 
 # Remote server rsync user
-LULRSYNCUSER="libadmin"
+LULRSYNCUSER="libfold"
 
 # Remote server conf file
 LULRSYNCCONFFILE="$LULSYSTEMSDIR/bin/.rsync.conf"
 
 # Remote server and root directory for rsync backups
-LULRSYNCREMOTEDIR="$LULRSYNCUSER@$LULRSYNCREMOTESERVER::WebsiteBackup"
+LULRSYNCREMOTEDIR="$LULRSYNCUSER@$LULRSYNCREMOTESERVER:/cygdrive/c/WebSynchronisation/Systems/Databases"
 
 # Database backup remote backup directory - for rsync
 LULDATABASEREMOTEDIR="$LULRSYNCREMOTEDIR/$LULHOST"
