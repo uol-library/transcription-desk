@@ -15,6 +15,6 @@ for db in  "${LULDATABASES[@]}"
 do
     echo $db
     $LULSYSTEMSDIR/bin/db_backup_dump.sh $db
-    rsync -lcrvt -e "ssh -p 2222" $LULDATABASEDUMPDIR/$db/${db}.Backup.gz $LULDATABASEREMOTEDIR
+    rsync -lcrvt -e "ssh -p 2222" $LULDATABASEDUMPDIR/$db/${db}.Backup.gz $LULDATABASEREMOTEDIR/
 done
 
