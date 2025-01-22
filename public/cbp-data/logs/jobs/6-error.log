@@ -1,0 +1,12 @@
+2017-06-26T09:49:15+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2017-06-26 09:49:15
+487680_001.jpg does not match with configured: 
+#0 /var/www/transcription/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(265): Classes\ImportCsvIntoDbTask->ParseFileName('487680_001.jpg')
+#1 /var/www/transcription/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(168): Classes\ImportCsvIntoDbTask->GetJobBoxes()
+#2 /var/www/transcription/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/transcription/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#4 {main}
+
+
+

@@ -1,0 +1,662 @@
+2019-03-10T17:24:58+00:00 INFO (6): Scanning /var/www/transcription/public/cbp-data/import/images
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_001.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_002.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_003.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_004.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_005.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_006.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_007.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_008.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_009.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_010.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_011.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_012.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_013.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_014.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_015.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_016.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_017.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_018.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_019.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_020.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_021.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_022.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_023.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_024.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_025.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_026.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_027.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_028.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_029.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_030.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_031.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_032.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_033.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_034.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_035.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_036.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_037.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_038.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_039.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_040.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_041.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_042.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_043.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_044.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_045.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_046.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_047.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_048.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_049.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_050.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_051.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_052.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_053.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_054.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_055.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_056.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_057.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_058.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_059.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_060.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_061.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_062.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_063.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_064.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_065.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_066.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_067.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_068.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_069.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_070.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_071.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_072.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_073.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_074.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_075.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_076.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_077.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_078.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_079.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_080.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_081.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_082.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_083.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_084.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_085.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_086.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_087.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_088.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_089.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_090.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_091.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_092.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_093.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_094.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_095.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_096.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_097.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_098.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_099.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_100.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_101.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_102.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_103.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_104.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_105.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_106.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_107.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_108.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_109.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_110.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_111.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_112.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_113.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_114.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_115.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_116.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_117.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_118.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_119.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_120.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_121.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_122.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_123.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_124.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_125.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_126.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_127.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_128.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_129.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_130.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_131.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_132.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_133.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_134.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_135.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_136.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_137.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_138.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_139.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_140.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_141.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_142.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_143.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_144.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_145.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_146.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_147.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_148.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_149.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_150.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_151.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_152.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_153.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_154.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_155.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_156.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_157.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_158.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_159.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Processing file 004_001_160.jpg
+
+2019-03-10T17:24:58+00:00 INFO (6): Box 004 has been inserted
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserting Folio 001
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 001
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 002
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 003
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 004
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 005
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 006
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 007
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 008
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 009
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 010
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 011
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 012
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 013
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 014
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 015
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 016
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 017
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 018
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 019
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 020
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 021
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 022
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 023
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 024
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 025
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 026
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 027
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 028
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 029
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 030
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 031
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 032
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 033
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 034
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 035
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 036
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 037
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 038
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 039
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 040
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 041
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 042
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 043
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 044
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 045
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 046
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 047
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 048
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 049
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 050
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 051
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 052
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 053
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 054
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 055
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 056
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 057
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 058
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 059
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 060
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 061
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 062
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 063
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 064
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 065
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 066
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 067
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 068
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 069
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 070
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 071
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 072
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 073
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 074
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 075
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 076
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 077
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 078
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 079
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 080
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 081
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 082
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 083
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 084
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 085
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 086
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 087
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 088
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 089
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 090
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 091
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 092
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 093
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 094
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 095
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 096
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 097
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 098
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 099
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 100
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 101
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 102
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 103
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 104
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 105
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 106
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 107
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 108
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 109
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 110
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 111
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 112
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 113
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 114
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 115
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 116
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 117
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 118
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 119
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 120
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 121
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 122
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 123
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 124
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 125
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 126
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 127
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 128
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 129
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 130
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 131
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 132
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 133
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 134
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 135
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 136
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 137
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 138
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 139
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 140
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 141
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 142
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 143
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 144
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 145
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 146
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 147
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 148
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 149
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 150
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 151
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 152
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 153
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 154
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 155
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 156
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 157
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 158
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 159
+
+2019-03-10T17:24:58+00:00 INFO (6): Inserted Item 160
+
+2019-03-10T17:24:58+00:00 INFO (6): -----------------------------------
+
+2019-03-10T17:24:58+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2019-03-10 17:24:58
+--------------------------------------------------------------------------------
+
+
+2019-03-10T17:24:58+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2019-03-10 17:24:58
+--------------------------------------------------------------------------------
+
+
+2019-03-10T17:24:58+00:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+

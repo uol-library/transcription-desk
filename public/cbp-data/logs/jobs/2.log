@@ -1,0 +1,524 @@
+2015-03-23T22:47:52+00:00 INFO (6): Scanning /var/www/html/cbp-data/import/images
+
+2015-03-23T22:47:52+00:00 INFO (6): Processing file 002_001_002.jpg
+
+2015-03-23T22:47:52+00:00 INFO (6): Processing file 002_001_003.jpg
+
+2015-03-23T22:47:52+00:00 INFO (6): Processing file 002_001_004.jpg
+
+2015-03-23T22:47:52+00:00 INFO (6): Box 002 has been inserted
+
+2015-03-23T22:47:52+00:00 INFO (6): Inserting Folio 001
+
+2015-03-23T22:47:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-23T22:47:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-23T22:47:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-23T22:47:52+00:00 INFO (6): -----------------------------------
+
+2015-03-23T22:47:52+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2015-03-23 22:47:52
+--------------------------------------------------------------------------------
+
+
+2015-03-23T22:47:52+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2015-03-23 22:47:52
+--------------------------------------------------------------------------------
+
+
+2015-03-23T22:47:52+00:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2015-03-25T16:43:40+00:00 INFO (6): Scanning /var/www/html/cbp-data/import/images
+
+2015-03-25T16:43:40+00:00 INFO (6): Processing file 001_002_001.jpg
+
+2015-03-25T16:43:40+00:00 INFO (6): Processing file 001_002_002.jpg
+
+2015-03-25T16:43:40+00:00 INFO (6): Processing file 001_002_003.jpg
+
+2015-03-25T16:43:40+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-25T16:43:40+00:00 INFO (6): Inserting Folio 001
+
+2015-03-25T16:44:56+00:00 INFO (6): User has specified Job ID: 2, Looking for previously processed boxes 
+
+2015-03-25T16:44:56+00:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/html/cbp-data/import/images
+
+2015-03-25T16:44:56+00:00 INFO (6): Processing file 001_002_001.jpg
+
+2015-03-25T16:44:56+00:00 INFO (6): Processing file 001_002_002.jpg
+
+2015-03-25T16:44:56+00:00 INFO (6): Processing file 001_002_003.jpg
+
+2015-03-25T16:44:56+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-25T16:44:56+00:00 INFO (6): Inserting Folio 002
+
+2015-03-25T16:44:56+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T16:44:56+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T16:44:56+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T16:44:56+00:00 INFO (6): -----------------------------------
+
+2015-03-25T16:44:56+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2015-03-25 16:44:56
+--------------------------------------------------------------------------------
+
+
+2015-03-25T16:44:56+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2015-03-25 16:44:56
+--------------------------------------------------------------------------------
+
+
+2015-03-25T16:44:56+00:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2015-03-25T16:45:25+00:00 INFO (6): User has specified Job ID: 2, Looking for previously processed boxes 
+
+2015-03-25T16:45:25+00:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/html/cbp-data/import/images
+
+2015-03-25T16:45:25+00:00 INFO (6): Processing file 001_002_001.jpg
+
+2015-03-25T16:45:25+00:00 INFO (6): Processing file 001_002_002.jpg
+
+2015-03-25T16:45:25+00:00 INFO (6): Processing file 001_002_003.jpg
+
+2015-03-25T16:45:25+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-25T16:45:25+00:00 INFO (6): Inserting Folio 002
+
+2015-03-25T16:45:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T16:45:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T16:45:25+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T16:45:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T16:45:25+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2015-03-25 16:45:25
+--------------------------------------------------------------------------------
+
+
+2015-03-25T16:45:25+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2015-03-25 16:45:25
+--------------------------------------------------------------------------------
+
+
+2015-03-25T16:45:25+00:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2015-03-25T23:25:25+00:00 INFO (6): Scanning /var/www/html/cbp-data/import/images
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_004_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_004_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_004_003.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_004_004.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_004_005.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_005_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_005_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_006_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_006_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_007_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_007_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_008_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_008_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_009_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_009_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_009_003.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_010_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_010_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_010_003.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_010_004.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_011_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_011_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_011_003.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_011_004.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_012_001.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_012_002.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_012_003.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Processing file 001_012_004.jpg
+
+2015-03-25T23:25:25+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserting Folio 004
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 004
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 005
+
+2015-03-25T23:25:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserting Folio 005
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:25:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserting Folio 006
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:25:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserting Folio 007
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:25:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserting Folio 008
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:25:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserting Folio 009
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:25:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserting Folio 010
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 004
+
+2015-03-25T23:25:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserting Folio 011
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:25:25+00:00 INFO (6): Inserted Item 004
+
+2015-03-25T23:25:25+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): User has specified Job ID: 2, Looking for previously processed boxes 
+
+2015-03-25T23:39:00+00:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/html/cbp-data/import/images
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_004_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_004_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_004_003.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_004_004.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_004_005.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_005_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_005_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_006_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_006_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_007_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_007_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_008_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_008_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_009_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_009_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_009_003.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_010_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_010_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_010_003.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_010_004.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_011_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_011_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_011_003.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_011_004.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_012_001.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_012_002.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_012_003.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Processing file 001_012_004.jpg
+
+2015-03-25T23:39:00+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 004
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 004
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 005
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 005
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 006
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 007
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 008
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 009
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 010
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 004
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 011
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 004
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserting Folio 012
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T23:39:00+00:00 INFO (6): Inserted Item 004
+
+2015-03-25T23:39:00+00:00 INFO (6): -----------------------------------
+
+2015-03-25T23:39:00+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2015-03-25 23:39:00
+--------------------------------------------------------------------------------
+
+
+2015-03-25T23:39:00+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2015-03-25 23:39:00
+--------------------------------------------------------------------------------
+
+
+2015-03-25T23:39:00+00:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-24T18:15:25+01:00 INFO (6): Scanning /var/www/transcription/cbp-data/import/images
+
+2017-06-24T18:15:25+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-24T18:15:25+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-24T18:15:25+01:00 INFO (6): Inserting Folio 001
+
+2017-06-24T18:15:25+01:00 INFO (6): Inserted Item 001
+
+2017-06-24T18:15:25+01:00 INFO (6): -----------------------------------
+
+2017-06-24T18:15:25+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-24 18:15:25
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:25+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-24 18:15:25
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:25+01:00 INFO (6): Executing command: /usr/bin/perl /var/www/transcription/scripts/Slicer/slicer.pl --input_file /var/www/transcription/cbp-data/import/images/BOX_002/002_001_001.jpg --output_path /var/www/transcription/zimages
+
+2017-06-24T18:15:26+01:00 INFO (6): 
+
+2017-06-24T18:15:26+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing completed : 2017-06-24 18:15:26
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:26+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export started : 2017-06-24 18:15:26
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:26+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export completed : 2017-06-24 18:15:26
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:26+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW started : 2017-06-24 18:15:26
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:26+01:00 INFO (6): Executing command: /usr/bin/php /var/www/transcription/w/maintenance/importDump.php < /var/www/transcription/cbp-data/export/xml/2.xml
+
+2017-06-24T18:15:26+01:00 INFO (6): XXXXXXXXXXXXXXXXXXXXXX /usr/bin/php /var/www/transcription/w/maintenance/importDump.php < /var/www/transcription/cbp-data/export/xml/2.xml
+
+2017-06-24T18:15:27+01:00 INFO (6): QQQQQQQQQQQQQQQQQQQQQQQQQQQDone!
+You might want to run rebuildrecentchanges.php to regenerate RecentChanges
+
+
+2017-06-24T18:15:27+01:00 INFO (6): Import into MW successful
+
+2017-06-24T18:15:27+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW completed : 2017-06-24 18:15:27
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:27+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW started : 2017-06-24 18:15:27
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:27+01:00 INFO (6): Checking whether TD/002/001/001 exists in mediawiki
+
+2017-06-24T18:15:27+01:00 INFO (6): TD/002/001/001 found in mediawiki
+
+2017-06-24T18:15:27+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW completed : 2017-06-24 18:15:27
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:27+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML started : 2017-06-24 18:15:27
+--------------------------------------------------------------------------------
+
+
+2017-06-24T18:15:27+01:00 INFO (6): Creating directory /var/www/transcription/cbp-data/archive/2
+
+2017-06-24T18:15:27+01:00 INFO (6): Created directory /var/www/transcription/cbp-data/archive/2
+
+2017-06-24T18:15:27+01:00 INFO (6): /var/www/transcription/cbp-data/export/xml/2.xml moved to /var/www/transcription/cbp-data/archive/2/2.xml
+
+2017-06-24T18:15:27+01:00 INFO (6): Created directory /var/www/transcription/cbp-data/archive/2/BOX_002
+

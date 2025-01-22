@@ -1,0 +1,134 @@
+2019-06-08T13:54:08+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2019-06-08 13:54:08
+Process(): unable to rename /var/www/transcription/public/cbp-data/import/images/BOX_010/010_001_001.jpg to /var/www/transcription/public/cbp-data/archive/18/BOX_010/010_001_001.jpg
+#0 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(292): Classes\ArchiveTask->Process('010_001_001')
+#1 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/transcription/public/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/transcription/public/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#5 /var/www/transcription/public/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/transc...')
+#6 /var/www/transcription/public/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/transc...')
+#7 /var/www/transcription/public/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/transc...')
+#8 /var/www/transcription/public/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/transc...')
+#9 /var/www/transcription/public/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/transc...')
+#10 /var/www/transcription/public/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#11 {main}
+
+
+
+2019-06-08T13:54:08+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2019-06-08 13:54:08
+Process(): unable to rename /var/www/transcription/public/cbp-data/import/images/BOX_010/010_001_001.jpg to /var/www/transcription/public/cbp-data/archive/18/BOX_010/010_001_001.jpg
+#0 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(292): Classes\ArchiveTask->Process('010_001_001')
+#1 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/transcription/public/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/transcription/public/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#5 /var/www/transcription/public/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/transc...')
+#6 /var/www/transcription/public/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/transc...')
+#7 /var/www/transcription/public/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/transc...')
+#8 /var/www/transcription/public/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/transc...')
+#9 /var/www/transcription/public/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/transc...')
+#10 /var/www/transcription/public/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#11 {main}
+
+
+
+2019-06-08T13:54:08+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2019-06-08 13:54:08
+Process(): unable to rename /var/www/transcription/public/cbp-data/import/images/BOX_010/010_001_001.jpg to /var/www/transcription/public/cbp-data/archive/18/BOX_010/010_001_001.jpg
+#0 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/transcription/public/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/transcription/public/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#5 /var/www/transcription/public/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/transc...')
+#6 /var/www/transcription/public/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/transc...')
+#7 /var/www/transcription/public/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/transc...')
+#8 /var/www/transcription/public/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/transc...')
+#9 /var/www/transcription/public/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/transc...')
+#10 /var/www/transcription/public/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#11 {main}
+
+
+
+2019-06-08T13:54:08+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2019-06-08 13:54:08
+Process(): unable to rename /var/www/transcription/public/cbp-data/import/images/BOX_010/010_001_001.jpg to /var/www/transcription/public/cbp-data/archive/18/BOX_010/010_001_001.jpg
+#0 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/transcription/public/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/transcription/public/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#5 /var/www/transcription/public/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/transc...')
+#6 /var/www/transcription/public/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/transc...')
+#7 /var/www/transcription/public/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/transc...')
+#8 /var/www/transcription/public/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/transc...')
+#9 /var/www/transcription/public/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/transc...')
+#10 /var/www/transcription/public/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#11 {main}
+
+
+
+2019-06-08T13:54:08+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2019-06-08 13:54:08
+Process(): unable to rename /var/www/transcription/public/cbp-data/import/images/BOX_010/010_001_001.jpg to /var/www/transcription/public/cbp-data/archive/18/BOX_010/010_001_001.jpg
+#0 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/transcription/public/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/transcription/public/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#4 /var/www/transcription/public/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/transc...')
+#5 /var/www/transcription/public/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/transc...')
+#6 /var/www/transcription/public/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/transc...')
+#7 /var/www/transcription/public/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/transc...')
+#8 /var/www/transcription/public/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/transc...')
+#9 /var/www/transcription/public/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#10 {main}
+
+
+
+2019-06-08T13:54:08+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2019-06-08 13:54:08
+Process(): unable to rename /var/www/transcription/public/cbp-data/import/images/BOX_010/010_001_001.jpg to /var/www/transcription/public/cbp-data/archive/18/BOX_010/010_001_001.jpg
+#0 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/transcription/public/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/transcription/public/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/transcription/public/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#4 /var/www/transcription/public/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/transc...')
+#5 /var/www/transcription/public/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/transc...')
+#6 /var/www/transcription/public/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/transc...')
+#7 /var/www/transcription/public/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/transc...')
+#8 /var/www/transcription/public/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/transc...')
+#9 /var/www/transcription/public/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#10 {main}
+
+
+
+2019-06-08T14:04:21+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2019-06-08 14:04:21
+The following images could not be matched with meta data 011_001_001, 011_001_002, 011_001_003, 011_001_004, 011_001_005, 011_001_006, 011_001_007, 011_001_008, 011_001_009, 011_001_010, 011_001_011, 011_001_012, 011_001_013, 011_001_014, 011_001_015, 011_001_016, 011_001_017, 011_001_018, 011_001_019, 011_001_020, 011_001_021, 011_001_022, 011_001_023, 011_001_024, 011_001_025, 011_001_026, 011_001_027, 011_001_028, 011_001_029, 011_001_030, 011_001_031, 011_001_032, 011_001_033, 011_001_034, 011_001_035, 011_001_036, 011_001_037, 011_001_038, 011_001_039, 011_001_040, 011_001_041, 011_001_042, 011_001_043, 011_001_044, 011_001_045, 011_001_046, 011_001_047, 011_001_048, 011_001_049, 011_001_050, 011_001_051, 011_001_052, 011_001_053, 011_001_054, 011_001_055, 011_001_056, 011_001_057, 011_001_058, 011_001_059, 011_001_060, 011_001_061, 011_001_062, 011_001_063, 011_001_064, 011_001_065, 011_001_066, 011_001_067, 011_001_068, 011_001_069, 011_001_070, 011_001_071, 011_001_072, 011_001_073, 011_001_074, 011_001_075, 011_001_076, 011_001_077, 011_001_078, 011_001_079, 011_001_080, 011_001_081, 011_001_082, 011_001_083, 011_001_084, 011_001_085, 011_001_086, 011_001_087, 011_001_088, 011_001_089, 011_001_090, 011_001_091, 011_001_092, 011_001_093, 011_001_094, 011_001_095, 011_001_096, 011_001_097, 011_001_098, 011_001_099, 011_001_100, 011_001_101, 011_001_102, 011_001_103, 011_001_104, 011_001_105, 011_001_106, 011_001_107, 011_001_108, 011_001_109, 011_001_110, 011_001_111, 011_001_112, 011_001_113, 011_001_114, 011_001_115, 011_001_116, 011_001_117, 011_001_118, 011_001_119, 011_001_120, 011_001_121, 011_001_122, 011_001_123, 011_001_124, 011_001_125, 011_001_126, 011_001_127, 011_001_128, 011_001_129, 011_001_130, 011_001_131, 011_001_132, 011_001_133, 011_001_134, 011_001_135, 011_001_136, 011_001_137, 011_001_138, 011_001_139, 011_001_140, 011_001_141, 011_001_142, 011_001_143, 011_001_144, 011_001_145, 011_001_146, 011_001_147, 011_001_148, 011_001_149, 011_001_150, 011_001_151, 011_001_152, 011_001_153, 011_001_154, 011_001_155, 011_001_156, 011_001_157, 011_001_158, 011_001_159, 011_001_160, 011_001_161, 011_001_162, 011_001_163, 
+#0 /var/www/transcription/public/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/transcription/public/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/transcription/public/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#3 {main}
+
+
+
+2019-06-08T14:04:21+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2019-06-08 14:04:21
+The following images could not be matched with meta data 011_001_001, 011_001_002, 011_001_003, 011_001_004, 011_001_005, 011_001_006, 011_001_007, 011_001_008, 011_001_009, 011_001_010, 011_001_011, 011_001_012, 011_001_013, 011_001_014, 011_001_015, 011_001_016, 011_001_017, 011_001_018, 011_001_019, 011_001_020, 011_001_021, 011_001_022, 011_001_023, 011_001_024, 011_001_025, 011_001_026, 011_001_027, 011_001_028, 011_001_029, 011_001_030, 011_001_031, 011_001_032, 011_001_033, 011_001_034, 011_001_035, 011_001_036, 011_001_037, 011_001_038, 011_001_039, 011_001_040, 011_001_041, 011_001_042, 011_001_043, 011_001_044, 011_001_045, 011_001_046, 011_001_047, 011_001_048, 011_001_049, 011_001_050, 011_001_051, 011_001_052, 011_001_053, 011_001_054, 011_001_055, 011_001_056, 011_001_057, 011_001_058, 011_001_059, 011_001_060, 011_001_061, 011_001_062, 011_001_063, 011_001_064, 011_001_065, 011_001_066, 011_001_067, 011_001_068, 011_001_069, 011_001_070, 011_001_071, 011_001_072, 011_001_073, 011_001_074, 011_001_075, 011_001_076, 011_001_077, 011_001_078, 011_001_079, 011_001_080, 011_001_081, 011_001_082, 011_001_083, 011_001_084, 011_001_085, 011_001_086, 011_001_087, 011_001_088, 011_001_089, 011_001_090, 011_001_091, 011_001_092, 011_001_093, 011_001_094, 011_001_095, 011_001_096, 011_001_097, 011_001_098, 011_001_099, 011_001_100, 011_001_101, 011_001_102, 011_001_103, 011_001_104, 011_001_105, 011_001_106, 011_001_107, 011_001_108, 011_001_109, 011_001_110, 011_001_111, 011_001_112, 011_001_113, 011_001_114, 011_001_115, 011_001_116, 011_001_117, 011_001_118, 011_001_119, 011_001_120, 011_001_121, 011_001_122, 011_001_123, 011_001_124, 011_001_125, 011_001_126, 011_001_127, 011_001_128, 011_001_129, 011_001_130, 011_001_131, 011_001_132, 011_001_133, 011_001_134, 011_001_135, 011_001_136, 011_001_137, 011_001_138, 011_001_139, 011_001_140, 011_001_141, 011_001_142, 011_001_143, 011_001_144, 011_001_145, 011_001_146, 011_001_147, 011_001_148, 011_001_149, 011_001_150, 011_001_151, 011_001_152, 011_001_153, 011_001_154, 011_001_155, 011_001_156, 011_001_157, 011_001_158, 011_001_159, 011_001_160, 011_001_161, 011_001_162, 011_001_163, 
+#0 /var/www/transcription/public/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/transcription/public/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/transcription/public/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#3 {main}
+
+
+

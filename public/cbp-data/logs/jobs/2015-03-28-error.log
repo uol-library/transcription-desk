@@ -1,0 +1,72 @@
+2015-03-28T16:16:29+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-28 16:16:29
+ScanAndInsertFolioItems() could not find the meta data items: box number 001 and folio number 013 in the scanned files for box number BOX_001
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(460): Classes\ImportCsvIntoDbTask->ScanAndInsertFolioItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-28T16:16:29+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-28 16:16:29
+ScanAndInsertFolioItems() could not find the meta data items: box number 001 and folio number 013 in the scanned files for box number BOX_001
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(460): Classes\ImportCsvIntoDbTask->ScanAndInsertFolioItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-28T16:16:29+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-28 16:16:29
+ScanAndInsertFolioItems() could not find the meta data items: box number 001 and folio number 013 in the scanned files for box number BOX_001
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(468): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-28T16:16:29+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-28 16:16:29
+ScanAndInsertFolioItems() could not find the meta data items: box number 001 and folio number 013 in the scanned files for box number BOX_001
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(468): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-28T16:16:29+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-28 16:16:29
+ScanAndInsertFolioItems() could not find the meta data items: box number 001 and folio number 013 in the scanned files for box number BOX_001
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(476): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-28T16:16:29+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-28 16:16:29
+ScanAndInsertFolioItems() could not find the meta data items: box number 001 and folio number 013 in the scanned files for box number BOX_001
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(476): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+

@@ -59,3 +59,4 @@ LULDATABASENUMBER=3
 
 # Directory where the .my conf file resides
 LULDATABASECONFDIR=$LULSYSTEMSDIR/bin
+

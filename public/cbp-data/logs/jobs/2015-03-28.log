@@ -1,0 +1,2446 @@
+2015-03-28T16:15:28+00:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2015-03-28T16:15:28+00:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2015-03-28T16:15:46+00:00 INFO (6): Process 20941 has already terminated
+
+2015-03-28T16:15:46+00:00 INFO (6): Process 20941 has already terminated
+
+2015-03-28T16:15:46+00:00 INFO (6): Job 1 has been stopped
+
+2015-03-28T16:15:46+00:00 INFO (6): Job 1 has been stopped
+
+2015-03-28T16:16:29+00:00 INFO (6): Job 1 started
+
+2015-03-28T16:16:29+00:00 INFO (6): Job 1 started
+
+2015-03-28T16:16:29+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 1 initiated : 2015-03-28 16:16:29
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:16:29+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 1 initiated : 2015-03-28 16:16:29
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:16:29+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2015-03-28 16:16:29
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:16:29+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2015-03-28 16:16:29
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:16:29+00:00 INFO (6): Scanning /var/www/html/cbp-data/import/images
+
+2015-03-28T16:16:29+00:00 INFO (6): Scanning /var/www/html/cbp-data/import/images
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_004.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_004.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_005.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_004_005.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_005_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_005_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_005_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_005_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_006_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_006_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_006_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_006_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_007_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_007_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_007_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_007_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_008_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_008_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_008_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_008_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_009_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_009_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_009_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_009_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_009_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_009_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_010_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_010_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_010_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_010_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_010_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_010_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_010_004.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_010_004.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_011_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_011_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_011_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_011_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_011_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_011_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_011_004.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_011_004.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_012_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_012_001.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_012_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_012_002.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_012_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_012_003.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_012_004.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Processing file 001_012_004.jpg
+
+2015-03-28T16:16:29+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-28T16:16:29+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-28T16:16:29+00:00 INFO (6): Inserting Folio 013
+
+2015-03-28T16:16:29+00:00 INFO (6): Inserting Folio 013
+
+2015-03-28T16:22:51+00:00 INFO (6): Job 1 started
+
+2015-03-28T16:22:51+00:00 INFO (6): Job 1 started
+
+2015-03-28T16:22:51+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 1 initiated : 2015-03-28 16:22:51
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:22:51+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 1 initiated : 2015-03-28 16:22:51
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:22:51+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2015-03-28 16:22:51
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:22:51+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2015-03-28 16:22:51
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:22:51+00:00 INFO (6): Scanning /var/www/html/cbp-data/import/images
+
+2015-03-28T16:22:51+00:00 INFO (6): Scanning /var/www/html/cbp-data/import/images
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_013_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_013_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_013_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_013_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_013_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_013_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_013_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_013_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_014_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_014_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_014_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_014_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_014_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_014_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_014_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_014_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_015_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_015_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_015_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_015_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_016_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_016_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_016_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_016_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_016_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_016_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_016_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_016_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_017_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_017_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_017_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_017_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_017_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_017_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_017_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_017_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_018_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_018_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_018_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_018_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_018_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_018_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_018_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_018_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_019_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_019_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_019_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_019_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_020_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_020_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_020_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_020_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_021_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_021_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_021_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_021_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_022_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_022_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_022_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_022_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_022_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_022_003.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_022_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_022_004.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_023_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_023_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_023_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_023_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_024_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_024_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_024_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_024_002.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_025_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Processing file 001_025_001.jpg
+
+2015-03-28T16:22:51+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-28T16:22:51+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-28T16:22:51+00:00 INFO (6): Inserting Folio 013
+
+2015-03-28T16:22:51+00:00 INFO (6): Inserting Folio 013
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 014
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 014
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 015
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 015
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 016
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 016
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 017
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 017
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 018
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 018
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 019
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 019
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 020
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 020
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 021
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 021
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 022
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 022
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 003
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 004
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 023
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 023
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 024
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 024
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 002
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 025
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserting Folio 025
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): Inserted Item 001
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): -----------------------------------
+
+2015-03-28T16:22:52+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2015-03-28 16:22:52
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:22:52+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2015-03-28 16:22:52
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:22:52+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2015-03-28 16:22:52
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:22:52+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2015-03-28 16:22:52
+--------------------------------------------------------------------------------
+
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_001_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_001_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_001_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_001_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_001_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_001_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_001_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_001_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_002_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_002_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_002_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_002_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_002_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_002_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_005 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_004_005 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_005_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_005_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_005_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_005_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_006_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_006_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_006_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_006_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_007_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_007_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_007_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_007_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_008_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_008_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_008_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_008_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_009_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_009_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_009_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_009_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_009_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_009_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_010_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_010_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_010_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_010_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_010_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_010_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_010_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_010_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_011_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_011_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_011_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_011_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_011_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_011_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_011_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_011_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_012_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_012_001 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_012_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_012_002 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_012_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_012_003 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_012_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): /var/www/html/zimages/001/001_012_004 already exists. Skipping...
+
+2015-03-28T16:22:52+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_013_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:22:52+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_013_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:27:00+00:00 INFO (6): Box number: 001
+File name:  001_013_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_013_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_013_001
+
+
+2015-03-28T16:27:00+00:00 INFO (6): Box number: 001
+File name:  001_013_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_013_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_013_001
+
+
+2015-03-28T16:27:00+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_013_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:27:00+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_013_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:30:59+00:00 INFO (6): Box number: 001
+File name:  001_013_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_013_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_013_002
+
+
+2015-03-28T16:30:59+00:00 INFO (6): Box number: 001
+File name:  001_013_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_013_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_013_002
+
+
+2015-03-28T16:30:59+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_013_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:30:59+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_013_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:35:07+00:00 INFO (6): Box number: 001
+File name:  001_013_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_013_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_013_003
+
+
+2015-03-28T16:35:07+00:00 INFO (6): Box number: 001
+File name:  001_013_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_013_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_013_003
+
+
+2015-03-28T16:35:07+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_013_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:35:07+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_013_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:39:04+00:00 INFO (6): Box number: 001
+File name:  001_013_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_013_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_013_004
+
+
+2015-03-28T16:39:04+00:00 INFO (6): Box number: 001
+File name:  001_013_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_013_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_013_004
+
+
+2015-03-28T16:39:04+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_014_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:39:04+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_014_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:43:12+00:00 INFO (6): Box number: 001
+File name:  001_014_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_014_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_014_001
+
+
+2015-03-28T16:43:12+00:00 INFO (6): Box number: 001
+File name:  001_014_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_014_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_014_001
+
+
+2015-03-28T16:43:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_014_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:43:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_014_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:47:12+00:00 INFO (6): Box number: 001
+File name:  001_014_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_014_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_014_002
+
+
+2015-03-28T16:47:12+00:00 INFO (6): Box number: 001
+File name:  001_014_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_014_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_014_002
+
+
+2015-03-28T16:47:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_014_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:47:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_014_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:51:14+00:00 INFO (6): Box number: 001
+File name:  001_014_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_014_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_014_003
+
+
+2015-03-28T16:51:14+00:00 INFO (6): Box number: 001
+File name:  001_014_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_014_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_014_003
+
+
+2015-03-28T16:51:14+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_014_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:51:14+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_014_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:55:18+00:00 INFO (6): Box number: 001
+File name:  001_014_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_014_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_014_004
+
+
+2015-03-28T16:55:18+00:00 INFO (6): Box number: 001
+File name:  001_014_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_014_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_014_004
+
+
+2015-03-28T16:55:18+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_015_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:55:18+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_015_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:57:00+00:00 INFO (6): Box number: 001
+File name:  001_015_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_015_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_015_001
+
+
+2015-03-28T16:57:00+00:00 INFO (6): Box number: 001
+File name:  001_015_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_015_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_015_001
+
+
+2015-03-28T16:57:00+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_015_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:57:00+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_015_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:58:52+00:00 INFO (6): Box number: 001
+File name:  001_015_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_015_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_015_002
+
+
+2015-03-28T16:58:52+00:00 INFO (6): Box number: 001
+File name:  001_015_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_015_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_015_002
+
+
+2015-03-28T16:58:52+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_016_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T16:58:52+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_016_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:02:53+00:00 INFO (6): Box number: 001
+File name:  001_016_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_016_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_016_001
+
+
+2015-03-28T17:02:53+00:00 INFO (6): Box number: 001
+File name:  001_016_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_016_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_016_001
+
+
+2015-03-28T17:02:53+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_016_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:02:53+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_016_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:07:00+00:00 INFO (6): Box number: 001
+File name:  001_016_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_016_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_016_002
+
+
+2015-03-28T17:07:00+00:00 INFO (6): Box number: 001
+File name:  001_016_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_016_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_016_002
+
+
+2015-03-28T17:07:00+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_016_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:07:00+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_016_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:11:28+00:00 INFO (6): Box number: 001
+File name:  001_016_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_016_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_016_003
+
+
+2015-03-28T17:11:28+00:00 INFO (6): Box number: 001
+File name:  001_016_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_016_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_016_003
+
+
+2015-03-28T17:11:28+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_016_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:11:28+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_016_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:16:29+00:00 INFO (6): Box number: 001
+File name:  001_016_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_016_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_016_004
+
+
+2015-03-28T17:16:29+00:00 INFO (6): Box number: 001
+File name:  001_016_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_016_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_016_004
+
+
+2015-03-28T17:16:29+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_017_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:16:29+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_017_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:22:02+00:00 INFO (6): Box number: 001
+File name:  001_017_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_017_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_017_001
+
+
+2015-03-28T17:22:02+00:00 INFO (6): Box number: 001
+File name:  001_017_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_017_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_017_001
+
+
+2015-03-28T17:22:02+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_017_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:22:02+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_017_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:26:57+00:00 INFO (6): Box number: 001
+File name:  001_017_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_017_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_017_002
+
+
+2015-03-28T17:26:57+00:00 INFO (6): Box number: 001
+File name:  001_017_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_017_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_017_002
+
+
+2015-03-28T17:26:57+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_017_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:26:57+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_017_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:31:53+00:00 INFO (6): Box number: 001
+File name:  001_017_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_017_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_017_003
+
+
+2015-03-28T17:31:53+00:00 INFO (6): Box number: 001
+File name:  001_017_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_017_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_017_003
+
+
+2015-03-28T17:31:53+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_017_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:31:53+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_017_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:37:00+00:00 INFO (6): Box number: 001
+File name:  001_017_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_017_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_017_004
+
+
+2015-03-28T17:37:00+00:00 INFO (6): Box number: 001
+File name:  001_017_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_017_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_017_004
+
+
+2015-03-28T17:37:00+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_018_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:37:00+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_018_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:41:42+00:00 INFO (6): Box number: 001
+File name:  001_018_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_018_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_018_001
+
+
+2015-03-28T17:41:42+00:00 INFO (6): Box number: 001
+File name:  001_018_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_018_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_018_001
+
+
+2015-03-28T17:41:42+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_018_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:41:42+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_018_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:46:34+00:00 INFO (6): Box number: 001
+File name:  001_018_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_018_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_018_002
+
+
+2015-03-28T17:46:34+00:00 INFO (6): Box number: 001
+File name:  001_018_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_018_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_018_002
+
+
+2015-03-28T17:46:34+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_018_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:46:34+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_018_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:51:48+00:00 INFO (6): Box number: 001
+File name:  001_018_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_018_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_018_003
+
+
+2015-03-28T17:51:48+00:00 INFO (6): Box number: 001
+File name:  001_018_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_018_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_018_003
+
+
+2015-03-28T17:51:48+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_018_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:51:48+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_018_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:56:23+00:00 INFO (6): Box number: 001
+File name:  001_018_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_018_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_018_004
+
+
+2015-03-28T17:56:23+00:00 INFO (6): Box number: 001
+File name:  001_018_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_018_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_018_004
+
+
+2015-03-28T17:56:23+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_019_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T17:56:23+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_019_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:00:59+00:00 INFO (6): Box number: 001
+File name:  001_019_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_019_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_019_001
+
+
+2015-03-28T18:00:59+00:00 INFO (6): Box number: 001
+File name:  001_019_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_019_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_019_001
+
+
+2015-03-28T18:00:59+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_019_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:00:59+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_019_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:05:57+00:00 INFO (6): Box number: 001
+File name:  001_019_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_019_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_019_002
+
+
+2015-03-28T18:05:57+00:00 INFO (6): Box number: 001
+File name:  001_019_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_019_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_019_002
+
+
+2015-03-28T18:05:57+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_020_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:05:57+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_020_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:10:29+00:00 INFO (6): Box number: 001
+File name:  001_020_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_020_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_020_001
+
+
+2015-03-28T18:10:29+00:00 INFO (6): Box number: 001
+File name:  001_020_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_020_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_020_001
+
+
+2015-03-28T18:10:29+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_020_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:10:29+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_020_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:14:36+00:00 INFO (6): Box number: 001
+File name:  001_020_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_020_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_020_002
+
+
+2015-03-28T18:14:36+00:00 INFO (6): Box number: 001
+File name:  001_020_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_020_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_020_002
+
+
+2015-03-28T18:14:36+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_021_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:14:36+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_021_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:19:07+00:00 INFO (6): Box number: 001
+File name:  001_021_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_021_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_021_001
+
+
+2015-03-28T18:19:07+00:00 INFO (6): Box number: 001
+File name:  001_021_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_021_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_021_001
+
+
+2015-03-28T18:19:07+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_021_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:19:07+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_021_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:23:32+00:00 INFO (6): Box number: 001
+File name:  001_021_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_021_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_021_002
+
+
+2015-03-28T18:23:32+00:00 INFO (6): Box number: 001
+File name:  001_021_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_021_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_021_002
+
+
+2015-03-28T18:23:32+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_022_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:23:32+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_022_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:28:14+00:00 INFO (6): Box number: 001
+File name:  001_022_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_022_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_022_001
+
+
+2015-03-28T18:28:14+00:00 INFO (6): Box number: 001
+File name:  001_022_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_022_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_022_001
+
+
+2015-03-28T18:28:14+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_022_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:28:14+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_022_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:33:10+00:00 INFO (6): Box number: 001
+File name:  001_022_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_022_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_022_002
+
+
+2015-03-28T18:33:10+00:00 INFO (6): Box number: 001
+File name:  001_022_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_022_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_022_002
+
+
+2015-03-28T18:33:10+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_022_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:33:10+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_022_003.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:38:05+00:00 INFO (6): Box number: 001
+File name:  001_022_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_022_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_022_003
+
+
+2015-03-28T18:38:05+00:00 INFO (6): Box number: 001
+File name:  001_022_003
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_022_003
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_022_003
+
+
+2015-03-28T18:38:05+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_022_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:38:05+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_022_004.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:42:59+00:00 INFO (6): Box number: 001
+File name:  001_022_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_022_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_022_004
+
+
+2015-03-28T18:42:59+00:00 INFO (6): Box number: 001
+File name:  001_022_004
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_022_004
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_022_004
+
+
+2015-03-28T18:42:59+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_023_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:42:59+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_023_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:51:02+00:00 INFO (6): Box number: 001
+File name:  001_023_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_023_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_023_001
+
+
+2015-03-28T18:51:02+00:00 INFO (6): Box number: 001
+File name:  001_023_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_023_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_023_001
+
+
+2015-03-28T18:51:02+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_023_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T18:51:02+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_023_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T19:00:12+00:00 INFO (6): Box number: 001
+File name:  001_023_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_023_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_023_002
+
+
+2015-03-28T19:00:12+00:00 INFO (6): Box number: 001
+File name:  001_023_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_023_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_023_002
+
+
+2015-03-28T19:00:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_024_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T19:00:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_024_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T19:02:12+00:00 INFO (6): Box number: 001
+File name:  001_024_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_024_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_024_001
+
+
+2015-03-28T19:02:12+00:00 INFO (6): Box number: 001
+File name:  001_024_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_024_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_024_001
+
+
+2015-03-28T19:02:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_024_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T19:02:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_024_002.jpg --output_path /var/www/html/zimages
+
+2015-03-28T19:04:12+00:00 INFO (6): Box number: 001
+File name:  001_024_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_024_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_024_002
+
+
+2015-03-28T19:04:12+00:00 INFO (6): Box number: 001
+File name:  001_024_002
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_024_002
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_024_002
+
+
+2015-03-28T19:04:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_025_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T19:04:12+00:00 INFO (6): Executing command: /usr/bin/perl /var/www/html/scripts/Slicer/slicer.pl --input_file /var/www/html/cbp-data/import/images/BOX_001/001_025_001.jpg --output_path /var/www/html/zimages
+
+2015-03-28T19:07:45+00:00 INFO (6): Box number: 001
+File name:  001_025_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_025_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_025_001
+
+
+2015-03-28T19:07:45+00:00 INFO (6): Box number: 001
+File name:  001_025_001
+Creating directory /var/www/html/zimages/001/
+Processing /var/www/html/cbp-data/import/images/BOX_001/001_025_001
+Moving /var/www/html/zimages/001/slice to /var/www/html/zimages/001/001_025_001
+
+
+2015-03-28T19:07:45+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing completed : 2015-03-28 19:07:45
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:07:45+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing completed : 2015-03-28 19:07:45
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:07:45+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export started : 2015-03-28 19:07:45
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:07:45+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export started : 2015-03-28 19:07:45
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:07:45+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export completed : 2015-03-28 19:07:45
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:07:45+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export completed : 2015-03-28 19:07:45
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:07:45+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW started : 2015-03-28 19:07:45
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:07:45+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW started : 2015-03-28 19:07:45
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:07:46+00:00 INFO (6): Executing command: /usr/bin/php /var/www/html/w/maintenance/importDump.php < /var/www/html/cbp-data/export/xml/1.xml
+
+2015-03-28T19:07:46+00:00 INFO (6): Executing command: /usr/bin/php /var/www/html/w/maintenance/importDump.php < /var/www/html/cbp-data/export/xml/1.xml
+
+2015-03-28T19:07:46+00:00 INFO (6): XXXXXXXXXXXXXXXXXXXXXX /usr/bin/php /var/www/html/w/maintenance/importDump.php < /var/www/html/cbp-data/export/xml/1.xml
+
+2015-03-28T19:07:46+00:00 INFO (6): XXXXXXXXXXXXXXXXXXXXXX /usr/bin/php /var/www/html/w/maintenance/importDump.php < /var/www/html/cbp-data/export/xml/1.xml
+
+2015-03-28T19:08:15+00:00 INFO (6): QQQQQQQQQQQQQQQQQQQQQQQQQQQDone!
+You might want to run rebuildrecentchanges.php to regenerate RecentChanges
+
+
+2015-03-28T19:08:15+00:00 INFO (6): QQQQQQQQQQQQQQQQQQQQQQQQQQQDone!
+You might want to run rebuildrecentchanges.php to regenerate RecentChanges
+
+
+2015-03-28T19:08:15+00:00 INFO (6): Import into MW successful
+
+2015-03-28T19:08:15+00:00 INFO (6): Import into MW successful
+
+2015-03-28T19:08:15+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW completed : 2015-03-28 19:08:15
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:15+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW completed : 2015-03-28 19:08:15
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:15+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW started : 2015-03-28 19:08:15
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:15+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW started : 2015-03-28 19:08:15
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/001/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/001/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/001/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/001/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/001/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/001/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/001/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/001/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/001/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/001/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/001/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/001/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/001/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/001/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/001/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/001/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/002/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/002/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/002/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/002/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/002/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/002/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/002/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/002/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/002/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/002/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/002/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/002/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/005 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/004/005 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/005 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/004/005 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/005/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/005/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/005/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/005/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/005/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/005/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/005/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/005/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/006/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/006/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/006/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/006/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/006/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/006/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/006/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/006/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/007/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/007/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/007/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/007/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/007/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/007/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/007/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/007/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/008/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/008/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/008/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/008/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/008/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/008/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/008/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/008/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/009/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/009/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/009/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/009/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/009/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/009/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/009/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/009/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/009/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/009/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/009/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/009/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/010/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/010/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/010/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/010/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/010/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/010/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/010/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/010/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/010/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/010/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/010/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/010/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/010/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/010/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/010/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/010/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/011/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/011/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/011/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/011/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/011/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/011/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/011/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/011/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/011/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/011/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/011/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/011/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/011/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/011/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/011/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/011/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/012/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/012/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/012/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/012/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/012/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/012/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/012/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/012/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/012/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/012/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/012/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/012/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/012/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/012/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/012/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/012/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/013/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/013/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/013/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/013/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/013/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/013/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/013/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/013/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/013/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/013/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/013/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/013/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/013/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/013/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/013/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/013/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/014/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/014/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/014/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/014/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/014/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/014/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/014/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/014/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/014/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/014/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/014/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/014/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/014/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/014/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/014/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/014/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/015/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/015/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/015/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/015/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/015/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/015/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/015/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/015/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/016/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/016/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/016/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/016/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/016/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/016/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/016/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/016/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/016/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/016/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/016/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/016/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/016/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/016/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/016/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/016/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/017/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/017/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/017/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/017/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/017/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/017/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/017/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/017/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/017/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/017/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/017/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/017/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/017/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/017/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/017/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/017/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/018/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/018/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/018/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/018/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/018/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/018/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/018/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/018/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/018/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/018/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/018/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/018/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/018/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/018/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/018/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/018/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/019/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/019/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/019/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/019/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/019/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/019/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/019/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/019/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/020/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/020/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/020/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/020/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/020/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/020/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/020/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/020/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/021/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/021/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/021/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/021/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/021/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/021/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/021/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/021/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/022/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/022/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/022/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/022/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/022/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/022/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/022/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/022/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/022/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/022/003 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/022/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/022/003 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/022/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/022/004 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/022/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/022/004 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/023/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/023/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/023/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/023/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/023/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/023/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/023/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/023/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/024/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/024/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/024/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/024/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/024/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/024/002 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/024/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/024/002 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/025/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): Checking whether TD/001/025/001 exists in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/025/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): TD/001/025/001 found in mediawiki
+
+2015-03-28T19:08:15+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW completed : 2015-03-28 19:08:15
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:15+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW completed : 2015-03-28 19:08:15
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:15+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML started : 2015-03-28 19:08:15
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:15+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML started : 2015-03-28 19:08:15
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:15+00:00 INFO (6): Creating directory /var/www/html/cbp-data/archive/1
+
+2015-03-28T19:08:15+00:00 INFO (6): Creating directory /var/www/html/cbp-data/archive/1
+
+2015-03-28T19:08:15+00:00 INFO (6): Created directory /var/www/html/cbp-data/archive/1
+
+2015-03-28T19:08:15+00:00 INFO (6): Created directory /var/www/html/cbp-data/archive/1
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/export/xml/1.xml moved to /var/www/html/cbp-data/archive/1/1.xml
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/export/xml/1.xml moved to /var/www/html/cbp-data/archive/1/1.xml
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_001_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_001_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_001_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_001_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_001_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_001_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_001_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_001_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_002_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_002_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_002_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_002_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_002_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_002_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_005.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_004_005.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_005_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_005_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_005_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_005_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_006_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_006_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_006_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_006_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_007_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_007_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_007_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_007_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_008_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_008_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_008_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_008_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_009_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_009_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_009_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_009_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_009_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_009_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_010_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_010_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_010_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_010_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_010_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_010_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_010_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_010_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_011_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_011_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_011_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_011_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_011_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_011_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_011_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_011_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_012_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_012_001.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_012_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_012_002.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_012_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_012_003.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_012_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_012_004.jpg no longer exists. Probably previously archived.
+
+2015-03-28T19:08:15+00:00 INFO (6): Created directory /var/www/html/cbp-data/archive/1/BOX_001
+
+2015-03-28T19:08:15+00:00 INFO (6): Created directory /var/www/html/cbp-data/archive/1/BOX_001
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_013_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_013_001.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_013_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_013_001.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_013_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_013_002.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_013_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_013_002.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_013_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_013_003.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_013_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_013_003.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_013_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_013_004.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_013_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_013_004.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_014_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_014_001.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_014_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_014_001.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_014_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_014_002.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_014_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_014_002.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_014_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_014_003.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_014_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_014_003.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_014_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_014_004.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_014_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_014_004.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_015_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_015_001.jpg
+
+2015-03-28T19:08:15+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_015_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_015_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_015_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_015_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_015_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_015_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_016_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_016_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_016_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_016_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_016_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_016_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_016_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_016_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_016_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_016_003.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_016_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_016_003.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_016_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_016_004.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_016_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_016_004.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_017_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_017_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_017_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_017_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_017_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_017_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_017_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_017_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_017_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_017_003.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_017_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_017_003.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_017_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_017_004.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_017_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_017_004.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_018_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_018_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_018_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_018_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_018_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_018_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_018_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_018_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_018_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_018_003.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_018_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_018_003.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_018_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_018_004.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_018_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_018_004.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_019_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_019_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_019_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_019_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_019_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_019_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_019_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_019_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_020_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_020_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_020_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_020_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_020_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_020_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_020_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_020_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_021_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_021_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_021_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_021_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_021_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_021_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_021_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_021_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_022_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_022_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_022_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_022_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_022_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_022_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_022_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_022_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_022_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_022_003.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_022_003.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_022_003.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_022_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_022_004.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_022_004.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_022_004.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_023_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_023_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_023_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_023_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_023_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_023_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_023_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_023_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_024_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_024_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_024_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_024_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_024_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_024_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_024_002.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_024_002.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_025_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_025_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001/001_025_001.jpg moved to /var/www/html/cbp-data/archive/1/BOX_001/001_025_001.jpg
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001 is empty. Deleting ...
+
+2015-03-28T19:08:16+00:00 INFO (6): /var/www/html/cbp-data/import/images/BOX_001 is empty. Deleting ...
+
+2015-03-28T19:08:16+00:00 INFO (6): Deleted /var/www/html/cbp-data/import/images/BOX_001
+
+2015-03-28T19:08:16+00:00 INFO (6): Deleted /var/www/html/cbp-data/import/images/BOX_001
+
+2015-03-28T19:08:16+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML completed : 2015-03-28 19:08:16
+--------------------------------------------------------------------------------
+
+
+2015-03-28T19:08:16+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML completed : 2015-03-28 19:08:16
+--------------------------------------------------------------------------------
+
+

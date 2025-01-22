@@ -1,2 +1,6 @@
+private/.*
 private/mediawiki*
 public/zimages
+public/w
+private/Logs
+private/Dumps

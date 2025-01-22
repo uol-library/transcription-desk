@@ -1,0 +1,152 @@
+2015-03-25T19:16:02+00:00 INFO (6): Scanning /var/www/html/cbp-data/import/images
+
+2015-03-25T19:16:02+00:00 INFO (6): Processing file 001_002_001.jpg
+
+2015-03-25T19:16:02+00:00 INFO (6): Processing file 001_002_002.jpg
+
+2015-03-25T19:16:02+00:00 INFO (6): Processing file 001_002_003.jpg
+
+2015-03-25T19:16:02+00:00 INFO (6): Box 001 has been inserted
+
+2015-03-25T19:16:02+00:00 INFO (6): Inserting Folio 002
+
+2015-03-25T19:16:02+00:00 INFO (6): Inserted Item 001
+
+2015-03-25T19:16:02+00:00 INFO (6): Inserted Item 002
+
+2015-03-25T19:16:02+00:00 INFO (6): Inserted Item 003
+
+2015-03-25T19:16:02+00:00 INFO (6): -----------------------------------
+
+2015-03-25T19:16:02+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2015-03-25 19:16:02
+--------------------------------------------------------------------------------
+
+
+2015-03-25T19:16:02+00:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2015-03-25 19:16:02
+--------------------------------------------------------------------------------
+
+
+2015-03-25T19:16:02+00:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:22:02+01:00 INFO (6): Scanning /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:22:02+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:35:02+01:00 INFO (6): User has specified Job ID: 7, Looking for previously processed boxes 
+
+2017-06-26T15:35:02+01:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:35:02+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:37:21+01:00 INFO (6): User has specified Job ID: 7, Looking for previously processed boxes 
+
+2017-06-26T15:37:21+01:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:37:21+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+

@@ -1,0 +1,990 @@
+2017-06-26T09:16:32+01:00 INFO (6): Job 5 started
+
+2017-06-26T09:16:32+01:00 INFO (6): Job 5 started
+
+2017-06-26T09:16:32+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 5 initiated : 2017-06-26 09:16:32
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:16:32+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 5 initiated : 2017-06-26 09:16:32
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:16:32+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 09:16:32
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:16:32+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 09:16:32
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:16:32+01:00 INFO (6): Scanning /var/www/transcription/cbp-data/import/images
+
+2017-06-26T09:16:32+01:00 INFO (6): Scanning /var/www/transcription/cbp-data/import/images
+
+2017-06-26T09:16:32+01:00 INFO (6): Processing file 002_001_002.tif
+
+2017-06-26T09:16:32+01:00 INFO (6): Processing file 002_001_002.tif
+
+2017-06-26T09:24:45+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:24:45+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:24:54+01:00 INFO (6): Process 13174 has already terminated
+
+2017-06-26T09:24:54+01:00 INFO (6): Process 13174 has already terminated
+
+2017-06-26T09:24:54+01:00 INFO (6): Job 5 re-started
+
+2017-06-26T09:24:54+01:00 INFO (6): Job 5 re-started
+
+2017-06-26T09:24:54+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 5 initiated : 2017-06-26 09:24:54
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:24:54+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 5 initiated : 2017-06-26 09:24:54
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:24:54+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 09:24:54
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:24:54+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 09:24:54
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:24:54+01:00 INFO (6): User has specified Job ID: 5, Looking for previously processed boxes 
+
+2017-06-26T09:24:54+01:00 INFO (6): User has specified Job ID: 5, Looking for previously processed boxes 
+
+2017-06-26T09:24:54+01:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/transcription/cbp-data/import/images
+
+2017-06-26T09:24:54+01:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/transcription/cbp-data/import/images
+
+2017-06-26T09:24:54+01:00 INFO (6): Processing file 487680_002.jpg
+
+2017-06-26T09:24:54+01:00 INFO (6): Processing file 487680_002.jpg
+
+2017-06-26T09:30:43+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:30:43+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:30:47+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:30:47+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:30:47+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:30:47+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:08+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:32:08+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:32:12+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:32:12+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:32:15+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:32:15+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:32:24+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:24+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:24+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:24+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:32+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:32+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:32+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:32+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:38+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:32:38+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:32:41+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:41+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:41+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:41+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:42+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:42+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:42+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:42+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:42+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:42+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:42+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:42+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:42+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:42+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:42+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:42+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:43+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:43+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:43+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:43+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:43+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:43+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:43+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:43+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:43+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:43+01:00 INFO (6): Process 13234 has already terminated
+
+2017-06-26T09:32:43+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:32:43+01:00 INFO (6): Job 5 has been stopped
+
+2017-06-26T09:49:15+01:00 INFO (6): Job 6 started
+
+2017-06-26T09:49:15+01:00 INFO (6): Job 6 started
+
+2017-06-26T09:49:15+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 6 initiated : 2017-06-26 09:49:15
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:49:15+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 6 initiated : 2017-06-26 09:49:15
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:49:15+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 09:49:15
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:49:15+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 09:49:15
+--------------------------------------------------------------------------------
+
+
+2017-06-26T09:49:15+01:00 INFO (6): Scanning /var/www/transcription/cbp-data/import/images
+
+2017-06-26T09:49:15+01:00 INFO (6): Scanning /var/www/transcription/cbp-data/import/images
+
+2017-06-26T09:49:15+01:00 INFO (6): Processing file 487680_001.jpg
+
+2017-06-26T09:49:15+01:00 INFO (6): Processing file 487680_001.jpg
+
+2017-06-26T09:50:28+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:28+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:35+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:35+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:36+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:36+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:36+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:36+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:36+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:36+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:36+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T09:50:36+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T15:22:02+01:00 INFO (6): Job 7 started
+
+2017-06-26T15:22:02+01:00 INFO (6): Job 7 started
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 7 initiated : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 7 initiated : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): Scanning /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:22:02+01:00 INFO (6): Scanning /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:22:02+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:22:02+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:22:02+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:22:02+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:22:02+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:22:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:22:02+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:22:02+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:28:12+01:00 INFO (6): Process 23184 has already terminated
+
+2017-06-26T15:28:12+01:00 INFO (6): Process 23184 has already terminated
+
+2017-06-26T15:28:12+01:00 INFO (6): Job 7 has been stopped
+
+2017-06-26T15:28:12+01:00 INFO (6): Job 7 has been stopped
+
+2017-06-26T15:35:02+01:00 INFO (6): Process 23184 has already terminated
+
+2017-06-26T15:35:02+01:00 INFO (6): Process 23184 has already terminated
+
+2017-06-26T15:35:02+01:00 INFO (6): Job 7 re-started
+
+2017-06-26T15:35:02+01:00 INFO (6): Job 7 re-started
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 7 initiated : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 7 initiated : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): User has specified Job ID: 7, Looking for previously processed boxes 
+
+2017-06-26T15:35:02+01:00 INFO (6): User has specified Job ID: 7, Looking for previously processed boxes 
+
+2017-06-26T15:35:02+01:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:35:02+01:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:35:02+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:35:02+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:35:02+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:35:02+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:35:02+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:35:02
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:35:02+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:35:02+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:37:21+01:00 INFO (6): Process 23284 has already terminated
+
+2017-06-26T15:37:21+01:00 INFO (6): Process 23284 has already terminated
+
+2017-06-26T15:37:21+01:00 INFO (6): Job 7 re-started
+
+2017-06-26T15:37:21+01:00 INFO (6): Job 7 re-started
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 7 initiated : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 7 initiated : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): User has specified Job ID: 7, Looking for previously processed boxes 
+
+2017-06-26T15:37:21+01:00 INFO (6): User has specified Job ID: 7, Looking for previously processed boxes 
+
+2017-06-26T15:37:21+01:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:37:21+01:00 INFO (6): Cannot find any existing boxes in cbp_boxes table, so scanning directory /var/www/transcription/cbp-data/import/images
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:37:21+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:37:21+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:37:21+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:37:21+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:37:21+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:37:21
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:37:21+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:37:21+01:00 INFO (6): ProcessBoxes(): No boxes could be found with import completed
+
+2017-06-26T15:37:53+01:00 INFO (6): Process 23302 has already terminated
+
+2017-06-26T15:37:53+01:00 INFO (6): Process 23302 has already terminated
+
+2017-06-26T15:37:53+01:00 INFO (6): Job 7 has been stopped
+
+2017-06-26T15:37:53+01:00 INFO (6): Job 7 has been stopped
+
+2017-06-26T15:39:37+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T15:39:37+01:00 INFO (6): There are existing incomplete jobs. Exiting...
+
+2017-06-26T15:51:56+01:00 INFO (6): Job 4 re-started
+
+2017-06-26T15:51:56+01:00 INFO (6): Job 4 re-started
+
+2017-06-26T15:51:56+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 4 initiated : 2017-06-26 15:51:56
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:51:56+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 4 initiated : 2017-06-26 15:51:56
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:51:56+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:51:56
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:51:56+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:51:56
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:51:56+01:00 INFO (6): User has specified Job ID: 4, Looking for previously processed boxes 
+
+2017-06-26T15:51:56+01:00 INFO (6): User has specified Job ID: 4, Looking for previously processed boxes 
+
+2017-06-26T15:51:56+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:51:56+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:51:56+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:51:56+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:51:56+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:51:56+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:51:56+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:51:56+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Process 24019 has already terminated
+
+2017-06-26T15:52:13+01:00 INFO (6): Process 24019 has already terminated
+
+2017-06-26T15:52:13+01:00 INFO (6): Job 4 re-started
+
+2017-06-26T15:52:13+01:00 INFO (6): Job 4 re-started
+
+2017-06-26T15:52:13+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 4 initiated : 2017-06-26 15:52:13
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:13+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Job 4 initiated : 2017-06-26 15:52:13
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:13+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:52:13
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:13+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV started : 2017-06-26 15:52:13
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:13+01:00 INFO (6): User has specified Job ID: 4, Looking for previously processed boxes 
+
+2017-06-26T15:52:13+01:00 INFO (6): User has specified Job ID: 4, Looking for previously processed boxes 
+
+2017-06-26T15:52:13+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Processing file 002_001_001.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Processing file 002_001_002.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Processing file 002_001_003.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Processing file 002_001_004.jpg
+
+2017-06-26T15:52:13+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:52:13+01:00 INFO (6): Box 002 has been inserted
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserting Folio 001
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserted Item 001
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserted Item 002
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserted Item 003
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:52:13+01:00 INFO (6): Inserted Item 004
+
+2017-06-26T15:52:13+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:52:13+01:00 INFO (6): -----------------------------------
+
+2017-06-26T15:52:13+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:52:13
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:13+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Import from CSV completed : 2017-06-26 15:52:13
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:13+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:52:13
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:13+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing started : 2017-06-26 15:52:13
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:13+01:00 INFO (6): /var/www/transcription/zimages/002/002_001_001 already exists. Skipping...
+
+2017-06-26T15:52:13+01:00 INFO (6): /var/www/transcription/zimages/002/002_001_001 already exists. Skipping...
+
+2017-06-26T15:52:13+01:00 INFO (6): Executing command: /usr/bin/perl /var/www/transcription/scripts/Slicer/slicer.pl --input_file /var/www/transcription/cbp-data/import/images/BOX_002/002_001_002.jpg --output_path /var/www/transcription/zimages
+
+2017-06-26T15:52:13+01:00 INFO (6): Executing command: /usr/bin/perl /var/www/transcription/scripts/Slicer/slicer.pl --input_file /var/www/transcription/cbp-data/import/images/BOX_002/002_001_002.jpg --output_path /var/www/transcription/zimages
+
+2017-06-26T15:52:15+01:00 INFO (6): Box number: 002
+File name:  002_001_002
+Creating directory /var/www/transcription/zimages/002/
+Processing /var/www/transcription/cbp-data/import/images/BOX_002/002_001_002
+Moving /var/www/transcription/zimages/002/slice to /var/www/transcription/zimages/002/002_001_002
+
+
+2017-06-26T15:52:15+01:00 INFO (6): Box number: 002
+File name:  002_001_002
+Creating directory /var/www/transcription/zimages/002/
+Processing /var/www/transcription/cbp-data/import/images/BOX_002/002_001_002
+Moving /var/www/transcription/zimages/002/slice to /var/www/transcription/zimages/002/002_001_002
+
+
+2017-06-26T15:52:15+01:00 INFO (6): Executing command: /usr/bin/perl /var/www/transcription/scripts/Slicer/slicer.pl --input_file /var/www/transcription/cbp-data/import/images/BOX_002/002_001_003.jpg --output_path /var/www/transcription/zimages
+
+2017-06-26T15:52:15+01:00 INFO (6): Executing command: /usr/bin/perl /var/www/transcription/scripts/Slicer/slicer.pl --input_file /var/www/transcription/cbp-data/import/images/BOX_002/002_001_003.jpg --output_path /var/www/transcription/zimages
+
+2017-06-26T15:52:17+01:00 INFO (6): Box number: 002
+File name:  002_001_003
+Creating directory /var/www/transcription/zimages/002/
+Processing /var/www/transcription/cbp-data/import/images/BOX_002/002_001_003
+Moving /var/www/transcription/zimages/002/slice to /var/www/transcription/zimages/002/002_001_003
+
+
+2017-06-26T15:52:17+01:00 INFO (6): Box number: 002
+File name:  002_001_003
+Creating directory /var/www/transcription/zimages/002/
+Processing /var/www/transcription/cbp-data/import/images/BOX_002/002_001_003
+Moving /var/www/transcription/zimages/002/slice to /var/www/transcription/zimages/002/002_001_003
+
+
+2017-06-26T15:52:17+01:00 INFO (6): Executing command: /usr/bin/perl /var/www/transcription/scripts/Slicer/slicer.pl --input_file /var/www/transcription/cbp-data/import/images/BOX_002/002_001_004.jpg --output_path /var/www/transcription/zimages
+
+2017-06-26T15:52:17+01:00 INFO (6): Executing command: /usr/bin/perl /var/www/transcription/scripts/Slicer/slicer.pl --input_file /var/www/transcription/cbp-data/import/images/BOX_002/002_001_004.jpg --output_path /var/www/transcription/zimages
+
+2017-06-26T15:52:18+01:00 INFO (6): Box number: 002
+File name:  002_001_004
+Creating directory /var/www/transcription/zimages/002/
+Processing /var/www/transcription/cbp-data/import/images/BOX_002/002_001_004
+Moving /var/www/transcription/zimages/002/slice to /var/www/transcription/zimages/002/002_001_004
+
+
+2017-06-26T15:52:18+01:00 INFO (6): Box number: 002
+File name:  002_001_004
+Creating directory /var/www/transcription/zimages/002/
+Processing /var/www/transcription/cbp-data/import/images/BOX_002/002_001_004
+Moving /var/www/transcription/zimages/002/slice to /var/www/transcription/zimages/002/002_001_004
+
+
+2017-06-26T15:52:18+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing completed : 2017-06-26 15:52:18
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:18+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Image slicing completed : 2017-06-26 15:52:18
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:18+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export started : 2017-06-26 15:52:18
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:18+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export started : 2017-06-26 15:52:18
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:18+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export completed : 2017-06-26 15:52:18
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:18+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+XML export completed : 2017-06-26 15:52:18
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:18+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW started : 2017-06-26 15:52:18
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:18+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW started : 2017-06-26 15:52:18
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:18+01:00 INFO (6): Executing command: /usr/bin/php /var/www/transcription/w/maintenance/importDump.php < /var/www/transcription/cbp-data/export/xml/4.xml
+
+2017-06-26T15:52:18+01:00 INFO (6): Executing command: /usr/bin/php /var/www/transcription/w/maintenance/importDump.php < /var/www/transcription/cbp-data/export/xml/4.xml
+
+2017-06-26T15:52:18+01:00 INFO (6): XXXXXXXXXXXXXXXXXXXXXX /usr/bin/php /var/www/transcription/w/maintenance/importDump.php < /var/www/transcription/cbp-data/export/xml/4.xml
+
+2017-06-26T15:52:18+01:00 INFO (6): XXXXXXXXXXXXXXXXXXXXXX /usr/bin/php /var/www/transcription/w/maintenance/importDump.php < /var/www/transcription/cbp-data/export/xml/4.xml
+
+2017-06-26T15:52:20+01:00 INFO (6): QQQQQQQQQQQQQQQQQQQQQQQQQQQDone!
+You might want to run rebuildrecentchanges.php to regenerate RecentChanges
+
+
+2017-06-26T15:52:20+01:00 INFO (6): QQQQQQQQQQQQQQQQQQQQQQQQQQQDone!
+You might want to run rebuildrecentchanges.php to regenerate RecentChanges
+
+
+2017-06-26T15:52:20+01:00 INFO (6): Import into MW successful
+
+2017-06-26T15:52:20+01:00 INFO (6): Import into MW successful
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW completed : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Importing XML into MW completed : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW started : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW started : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): Checking whether TD/002/001/001 exists in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): Checking whether TD/002/001/001 exists in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): TD/002/001/001 found in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): TD/002/001/001 found in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): Checking whether TD/002/001/002 exists in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): Checking whether TD/002/001/002 exists in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): TD/002/001/002 found in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): TD/002/001/002 found in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): Checking whether TD/002/001/003 exists in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): Checking whether TD/002/001/003 exists in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): TD/002/001/003 found in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): TD/002/001/003 found in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): Checking whether TD/002/001/004 exists in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): Checking whether TD/002/001/004 exists in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): TD/002/001/004 found in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): TD/002/001/004 found in mediawiki
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW completed : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Verifying items have been imported into MW completed : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML started : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML started : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/export/xml/4.xml moved to /var/www/transcription/cbp-data/archive/4/4.xml
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/export/xml/4.xml moved to /var/www/transcription/cbp-data/archive/4/4.xml
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002/002_001_001.jpg moved to /var/www/transcription/cbp-data/archive/4/BOX_002/002_001_001.jpg
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002/002_001_001.jpg moved to /var/www/transcription/cbp-data/archive/4/BOX_002/002_001_001.jpg
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002/002_001_002.jpg moved to /var/www/transcription/cbp-data/archive/4/BOX_002/002_001_002.jpg
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002/002_001_002.jpg moved to /var/www/transcription/cbp-data/archive/4/BOX_002/002_001_002.jpg
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002/002_001_003.jpg moved to /var/www/transcription/cbp-data/archive/4/BOX_002/002_001_003.jpg
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002/002_001_003.jpg moved to /var/www/transcription/cbp-data/archive/4/BOX_002/002_001_003.jpg
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002/002_001_004.jpg moved to /var/www/transcription/cbp-data/archive/4/BOX_002/002_001_004.jpg
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002/002_001_004.jpg moved to /var/www/transcription/cbp-data/archive/4/BOX_002/002_001_004.jpg
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002 is empty. Deleting ...
+
+2017-06-26T15:52:20+01:00 INFO (6): /var/www/transcription/cbp-data/import/images/BOX_002 is empty. Deleting ...
+
+2017-06-26T15:52:20+01:00 INFO (6): Deleted /var/www/transcription/cbp-data/import/images/BOX_002
+
+2017-06-26T15:52:20+01:00 INFO (6): Deleted /var/www/transcription/cbp-data/import/images/BOX_002
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML completed : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+
+2017-06-26T15:52:20+01:00 INFO (6): 
+--------------------------------------------------------------------------------
+Archiving XML completed : 2017-06-26 15:52:20
+--------------------------------------------------------------------------------
+
+

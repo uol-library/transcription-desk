@@ -1,0 +1,112 @@
+2015-03-26T02:23:49+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-26 02:23:49
+Process(): unable to rename /var/www/html/cbp-data/import/images/BOX_001/001_004_001.jpg to /var/www/html/cbp-data/archive/1/BOX_001/001_004_001.jpg
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(292): Classes\ArchiveTask->Process('001_004_001')
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#5 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#10 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#11 {main}
+
+
+
+2015-03-26T02:23:49+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-26 02:23:49
+Process(): unable to rename /var/www/html/cbp-data/import/images/BOX_001/001_004_001.jpg to /var/www/html/cbp-data/archive/1/BOX_001/001_004_001.jpg
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(292): Classes\ArchiveTask->Process('001_004_001')
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#5 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#10 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#11 {main}
+
+
+
+2015-03-26T02:23:50+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-26 02:23:49
+Process(): unable to rename /var/www/html/cbp-data/import/images/BOX_001/001_004_001.jpg to /var/www/html/cbp-data/archive/1/BOX_001/001_004_001.jpg
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#5 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#10 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#11 {main}
+
+
+
+2015-03-26T02:23:50+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-26 02:23:49
+Process(): unable to rename /var/www/html/cbp-data/import/images/BOX_001/001_004_001.jpg to /var/www/html/cbp-data/archive/1/BOX_001/001_004_001.jpg
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#5 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#10 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#11 {main}
+
+
+
+2015-03-26T02:23:50+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-26 02:23:50
+Process(): unable to rename /var/www/html/cbp-data/import/images/BOX_001/001_004_001.jpg to /var/www/html/cbp-data/archive/1/BOX_001/001_004_001.jpg
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#4 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#10 {main}
+
+
+
+2015-03-26T02:23:50+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-26 02:23:50
+Process(): unable to rename /var/www/html/cbp-data/import/images/BOX_001/001_004_001.jpg to /var/www/html/cbp-data/archive/1/BOX_001/001_004_001.jpg
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/7_ArchiveTask.php(124): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/7_ArchiveProcess.php(48): Classes\ArchiveTask->Execute()
+#4 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(53): require_once('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#10 {main}
+
+
+

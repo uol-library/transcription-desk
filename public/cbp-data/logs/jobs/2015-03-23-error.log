@@ -1,0 +1,1580 @@
+2015-03-23T12:50:42+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 12:50:42
+Brotherton_Collection_MS_19c_Bronte-B15_001.jpg does not match with configured: 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(265): Classes\ImportCsvIntoDbTask->ParseFileName('Brotherton_Coll...')
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(168): Classes\ImportCsvIntoDbTask->GetJobBoxes()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-23T12:50:42+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 12:50:42
+Brotherton_Collection_MS_19c_Bronte-B15_001.jpg does not match with configured: 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(265): Classes\ImportCsvIntoDbTask->ParseFileName('Brotherton_Coll...')
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(168): Classes\ImportCsvIntoDbTask->GetJobBoxes()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-23T12:51:08+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 12:51:08
+Brotherton_Collection_MS_19c_Bronte-B15_001.jpg does not match with configured: 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(265): Classes\ImportCsvIntoDbTask->ParseFileName('Brotherton_Coll...')
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(168): Classes\ImportCsvIntoDbTask->GetJobBoxes()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-23T12:51:08+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 12:51:08
+Brotherton_Collection_MS_19c_Bronte-B15_001.jpg does not match with configured: 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(265): Classes\ImportCsvIntoDbTask->ParseFileName('Brotherton_Coll...')
+#1 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(168): Classes\ImportCsvIntoDbTask->GetJobBoxes()
+#2 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#4 {main}
+
+
+
+2015-03-23T13:34:58+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:34:58
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:34:58+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:34:58
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:37:34+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:37:34
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:37:34+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:37:34
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:52:47+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:52:47
+The following images could not be matched with meta data 001_001_002, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:52:47+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:52:47
+The following images could not be matched with meta data 001_001_002, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:53:59+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:53:59
+The following images could not be matched with meta data 001_001_002, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:53:59+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:53:59
+The following images could not be matched with meta data 001_001_002, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:54:30+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:54:30
+The following images could not be matched with meta data 001_001_002, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:54:30+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:54:30
+The following images could not be matched with meta data 001_001_002, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:55:41+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:55:41
+The following images could not be matched with meta data 001_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T13:55:41+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 13:55:41
+The following images could not be matched with meta data 001_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:32:30+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:32:30
+The following images could not be matched with meta data 002_001_002, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:32:30+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:32:30
+The following images could not be matched with meta data 002_001_002, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:34:19+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:34:19
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:34:19+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:34:19
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:35:32+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:35:32
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:35:32+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:35:32
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:36:18+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:36:18
+The following images could not be matched with meta data 001_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:36:18+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:36:18
+The following images could not be matched with meta data 001_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:43:17+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:43:17
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:43:17+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:43:17
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:47:29+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:47:29
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:47:29+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:47:29
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:49:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:49:33
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:49:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:49:33
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:56:03+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:56:03
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:56:03+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:56:03
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:57:37+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:57:37
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:57:37+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:57:37
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:58:46+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:58:46
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T14:58:46+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 14:58:46
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:00:39+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:00:39
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:00:39+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:00:39
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:01:10+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:01:10
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:01:10+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:01:10
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:01:36+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:01:36
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:01:36+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:01:36
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:02:03+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:02:03
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:02:03+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:02:03
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:03:26+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:03:26
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:03:26+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:03:26
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:03:52+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:03:52
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:03:52+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:03:52
+The following images could not be matched with meta data 002_001_001, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(174): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T15:09:15+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:09:15
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:09:15+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:09:15
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:25:51+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:25:51
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:25:51+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:25:51
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:29:12+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:29:12
+TD/002/001/001 was not found in MediaWiki
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(292): Classes\VerifyPagesTask->Process('002/001/001')
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/6_VerifyPagesTask.php(107): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(48): Classes\VerifyPagesTask->Execute()
+#5 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#10 {main}
+
+
+
+2015-03-23T15:29:12+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:29:12
+TD/002/001/001 was not found in MediaWiki
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(292): Classes\VerifyPagesTask->Process('002/001/001')
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/6_VerifyPagesTask.php(107): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(48): Classes\VerifyPagesTask->Execute()
+#5 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#10 {main}
+
+
+
+2015-03-23T15:29:12+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:29:12
+TD/002/001/001 was not found in MediaWiki
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/6_VerifyPagesTask.php(107): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(48): Classes\VerifyPagesTask->Execute()
+#5 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#10 {main}
+
+
+
+2015-03-23T15:29:12+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:29:12
+TD/002/001/001 was not found in MediaWiki
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/6_VerifyPagesTask.php(107): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(48): Classes\VerifyPagesTask->Execute()
+#5 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#9 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#10 {main}
+
+
+
+2015-03-23T15:29:12+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:29:12
+TD/002/001/001 was not found in MediaWiki
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/6_VerifyPagesTask.php(107): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(48): Classes\VerifyPagesTask->Execute()
+#4 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#9 {main}
+
+
+
+2015-03-23T15:29:12+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:29:12
+TD/002/001/001 was not found in MediaWiki
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/6_VerifyPagesTask.php(107): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/6_VerifyPagesProcess.php(48): Classes\VerifyPagesTask->Execute()
+#4 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(53): require_once('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#7 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#8 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#9 {main}
+
+
+
+2015-03-23T15:43:37+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:43:37
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:43:37+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:43:37
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:51:45+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:51:45
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:51:45+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:51:45
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:52:25+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:52:25
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:52:25+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:52:25
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:55:57+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:55:56
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:55:57+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:55:56
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:56:26+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:56:26
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T15:56:26+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 15:56:26
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T16:34:13+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 16:34:13
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T16:34:13+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 16:34:13
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T16:40:59+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 16:40:59
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T16:40:59+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 16:40:59
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T16:42:19+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 16:42:19
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T16:42:19+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 16:42:19
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T16:43:23+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 16:43:23
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T16:43:23+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 16:43:23
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T17:03:56+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 17:03:56
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T17:03:56+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 17:03:56
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T17:05:15+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 17:05:15
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T17:05:15+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 17:05:15
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T17:12:55+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 17:12:55
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T17:12:55+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 17:12:55
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T17:46:07+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 17:46:07
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T17:46:07+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 17:46:07
+Done! was not returned by MW's importDump.php utility. Output returned: 
+#0 /var/www/html/scripts/importer/Classes/5_ImportXmlIntoMwJobTask.php(94): Classes\ImportXmlIntoMwJobTask->ImportXmlIntoMw()
+#1 /var/www/html/scripts/importer/5_ImportXmlIntoMwProcess.php(48): Classes\ImportXmlIntoMwJobTask->Execute()
+#2 /var/www/html/scripts/importer/4_ExportXmlProcess.php(54): require_once('/var/www/html/s...')
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(53): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T22:59:24+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 22:59:24
+The following images could not be matched with meta data 002_001_002, 002_001_003, 002_001_004, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T22:59:24+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 22:59:24
+The following images could not be matched with meta data 002_001_002, 002_001_003, 002_001_004, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T23:04:19+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:04:19
+The following images could not be matched with meta data 002_001_001, 002_001_002, 002_001_003, 002_001_004, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T23:04:19+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:04:19
+The following images could not be matched with meta data 002_001_001, 002_001_002, 002_001_003, 002_001_004, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T23:05:42+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:05:42
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(289): Classes\SliceImagesTask->ConstructPath(Object(Classes\Entities\Box), Object(Classes\Entities\Folio), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:05:42+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:05:42
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(289): Classes\SliceImagesTask->ConstructPath(Object(Classes\Entities\Box), Object(Classes\Entities\Folio), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:05:42+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:05:42
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:05:42+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:05:42
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:05:43+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:05:42
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T23:05:43+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:05:42
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T23:05:43+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:05:43
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(213): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#2 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#3 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#5 {main}
+
+
+
+2015-03-23T23:05:43+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:05:43
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(213): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#2 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#3 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#5 {main}
+
+
+
+2015-03-23T23:14:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:14:32
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(289): Classes\SliceImagesTask->ConstructPath(Object(Classes\Entities\Box), Object(Classes\Entities\Folio), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:14:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:14:32
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(289): Classes\SliceImagesTask->ConstructPath(Object(Classes\Entities\Box), Object(Classes\Entities\Folio), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:14:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:14:33
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:14:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:14:33
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:14:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:14:33
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T23:14:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:14:33
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T23:14:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:14:33
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(213): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#2 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#3 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#5 {main}
+
+
+
+2015-03-23T23:14:33+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:14:33
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(213): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#2 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#3 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#5 {main}
+
+
+
+2015-03-23T23:16:06+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:16:06
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(289): Classes\SliceImagesTask->ConstructPath(Object(Classes\Entities\Box), Object(Classes\Entities\Folio), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:16:06+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:16:06
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(289): Classes\SliceImagesTask->ConstructPath(Object(Classes\Entities\Box), Object(Classes\Entities\Folio), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:16:06+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:16:06
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:16:06+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:16:06
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:16:06+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:16:06
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T23:16:06+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:16:06
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T23:16:06+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:16:06
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(213): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#2 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#3 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#5 {main}
+
+
+
+2015-03-23T23:16:06+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:16:06
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(213): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#2 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#3 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#5 {main}
+
+
+
+2015-03-23T23:17:46+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:17:46
+The following images could not be matched with meta data 002_001_001, 002_001_002, 002_001_003, 002_001_004, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T23:17:46+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:17:46
+The following images could not be matched with meta data 002_001_001, 002_001_002, 002_001_003, 002_001_004, 
+#0 /var/www/html/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(172): Classes\ImportCsvIntoDbTask->IterateFolioCollectionAndInsertRowsIntoDb()
+#1 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#2 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#3 {main}
+
+
+
+2015-03-23T23:18:34+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:18:34
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(289): Classes\SliceImagesTask->ConstructPath(Object(Classes\Entities\Box), Object(Classes\Entities\Folio), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:18:34+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:18:34
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(289): Classes\SliceImagesTask->ConstructPath(Object(Classes\Entities\Box), Object(Classes\Entities\Folio), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:18:34+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:18:34
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:18:34+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:18:34
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(295): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Item))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(249): Classes\TaskAbstract->ProcessItems(Object(Classes\Entities\Box), Object(Classes\Entities\Folio))
+#2 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#3 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#4 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#5 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#6 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#7 {main}
+
+
+
+2015-03-23T23:18:35+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:18:34
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T23:18:35+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:18:34
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(251): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Folio))
+#1 /var/www/html/scripts/importer/Classes/TaskAbstract.php(209): Classes\TaskAbstract->ProcessFolios(Object(Classes\Entities\Box))
+#2 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#3 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#4 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#5 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#6 {main}
+
+
+
+2015-03-23T23:18:35+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:18:35
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(213): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#2 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#3 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#5 {main}
+
+
+
+2015-03-23T23:18:35+00:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2015-03-23 23:18:35
+FullImageImportPath /var/www/html/cbp-data/import/images/BOX_002/002_001_002.jpg does not exist
+#0 /var/www/html/scripts/importer/Classes/TaskAbstract.php(213): Classes\TaskAbstract->HandleError(Object(Classes\Exceptions\Importer), Object(Classes\Entities\Box))
+#1 /var/www/html/scripts/importer/Classes/3_SliceImagesTask.php(120): Classes\TaskAbstract->ProcessBoxes(Object(Classes\Entities\JobQueue))
+#2 /var/www/html/scripts/importer/3_SliceImagesProcess.php(48): Classes\SliceImagesTask->Execute()
+#3 /var/www/html/scripts/importer/2_ImportCsvIntoDbProcess.php(61): require('/var/www/html/s...')
+#4 /var/www/html/scripts/importer/1_InitiateJob.php(64): require('/var/www/html/s...')
+#5 {main}
+
+
+

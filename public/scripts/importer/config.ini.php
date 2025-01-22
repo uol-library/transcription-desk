@@ -16,7 +16,7 @@ page.path            = td;
 page.prefix          = TD;
 perl.path            = /usr/bin/perl
 admin.email          = j.n.ainsworth@leeds.ac.uk
-host                = lib16.leeds.ac.uk
+host                = transcriptions.library.leeds.ac.uk
 
 ;For example  BOX_001/001_001_001.jpg
 
@@ -51,7 +51,7 @@ database.params.dbname   = transcription
 
 
 [lul : common]
-path.prefix          = /var/www/transcription/public
+path.prefix          = /var/www/transcription/public/
 perl.path            = /usr/bin/perl
 database.params.username = wikiuser
 database.params.password = _83nth4m_

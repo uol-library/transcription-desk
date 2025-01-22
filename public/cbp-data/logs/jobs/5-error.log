@@ -1,0 +1,24 @@
+2017-06-26T09:16:32+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2017-06-26 09:16:32
+002_001_002.tif does not match with configured: 
+#0 /var/www/transcription/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(265): Classes\ImportCsvIntoDbTask->ParseFileName('002_001_002.tif')
+#1 /var/www/transcription/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(168): Classes\ImportCsvIntoDbTask->GetJobBoxes()
+#2 /var/www/transcription/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/transcription/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#4 {main}
+
+
+
+2017-06-26T09:24:54+01:00 ERR (3): 
+--------------------------------------------------------------------------------
+Exception Logged : 2017-06-26 09:24:54
+487680_002.jpg does not match with configured: 
+#0 /var/www/transcription/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(265): Classes\ImportCsvIntoDbTask->ParseFileName('487680_002.jpg')
+#1 /var/www/transcription/scripts/importer/Classes/2_ImportCsvIntoDbTask.php(168): Classes\ImportCsvIntoDbTask->GetJobBoxes()
+#2 /var/www/transcription/scripts/importer/2_ImportCsvIntoDbProcess.php(55): Classes\ImportCsvIntoDbTask->Execute()
+#3 /var/www/transcription/scripts/importer/1_InitiateJob.php(64): require('/var/www/transc...')
+#4 {main}
+
+
+
